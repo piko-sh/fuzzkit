@@ -1,0 +1,19 @@
+fuzzkit
+Copyright 2026 PolitePixels Limited
+
+This product includes software developed by PolitePixels Limited
+(https://github.com/piko-sh/fuzzkit).
+
+This product is licensed under the Apache License, Version 2.0 (the "License").
+You may use these files only in compliance with the License. A copy is in the
+accompanying LICENSE file and at the following address.
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Fuzzkit was originally developed as part of Pipit
+(https://github.com/piko-sh/pipit), whose differential fuzzer uses it to generate,
+replay and shrink test cases.
+
+This project stands against fascism, authoritarianism, and all forms of
+oppression. We built this to help people, not to enable those who would strip
+others of their rights and dignity.
